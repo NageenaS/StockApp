@@ -1,4 +1,5 @@
-api_key = "28bc0c7d0amsh75994d1089341a8p196612jsn2c18c438ac44"
+#provide your api_key below 
+api_key = "abcd1234"
 
 from flask import *
 import requests
