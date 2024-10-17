@@ -1,16 +1,18 @@
 # StockApp
 
-StockApp is a Flask application designed to provide insights into stock market data. This application leverages APIs to fetch and display stock information dynamically.
+StockApp is a Flask-based application that aims to offer insights into stock market data by using APIs to dynamically retrieve and display stock information.
+
+
 
 ## Features
 
-- Fetch stock prices and data in real-time.
-- User-friendly interface to explore stock information.
-- Interactive charts for visualizing stock trends.
+- Retrieve stock prices and data in real-time.
+- Intuitive interface for navigating stock information.
+- Engaging charts for visualizing stock trends.
 
 ## Prerequisites
 
-Before running the application, ensure you have the following installed:
+Prior to starting the application, confirm that you have the following installed:
 
 - Python 3.x
 - Docker
@@ -58,7 +60,6 @@ Once the application is running, you can use the interface to:
   ![image](https://github.com/user-attachments/assets/76da7f2e-e35f-4537-8790-edf381f1e6aa)
 
   ![image](https://github.com/user-attachments/assets/facd878d-95cf-4faf-9129-1760bad1b83a)
-
 
 
 ## Docker Hub
