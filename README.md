@@ -63,7 +63,7 @@ Once the application is running, you can use the interface to:
 
 ## Docker Hub
 
-The StockApp is also available on Docker Hub. You can find the image [here](https://hub.docker.com/r/kulsum16/stockapp) (replace with your actual Docker Hub link). This allows you to easily deploy the application without building the image locally.
+The StockApp is also available on Docker Hub. You can find the image [here](https://hub.docker.com/r/nageenashaik/stockwatch) (replace with your actual Docker Hub link). This allows you to easily deploy the application without building the image locally.
 
 ## Acknowledgements
 
