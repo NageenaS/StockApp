@@ -1,4 +1,4 @@
-# StockAnalyzer
+# Stock Analyzer
 
 StockApp is a Flask-based application designed to provide insights into stock market data. It utilizes APIs to dynamically fetch and display real-time stock information. This enables users to stay updated with the latest market trends and data.
 
