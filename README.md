@@ -1,4 +1,4 @@
-# StockApp
+# StockAnalyzer
 
 StockApp is a Flask-based application designed to provide insights into stock market data. It utilizes APIs to dynamically fetch and display real-time stock information. This enables users to stay updated with the latest market trends and data.
 
@@ -13,11 +13,12 @@ StockApp is a Flask-based application designed to provide insights into stock ma
 
 Prior to starting the application, confirm that you have the following installed:
 
-- Python 3.x
-- Docker
-- An API key from [RapidAPI](https://rapidapi.com/linuz/api/indian-stock-exchange-api2/playground) 
+- Python 3.x: Ensure you have Python 3.x for programming.
+- Docker: Ensure docker is installed for container management.
+- Flask: Flask framework must be installed and You can install it via pip.
+- API Key: Generate an API Key from [RapidAPI](https://rapidapi.com/linuz/api/indian-stock-exchange-api2/playground) for secure API access.
 
-## Getting Started
+## Begin Using the App
 
 1. Clone the repository to your local machine:
 
