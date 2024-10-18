@@ -69,7 +69,7 @@ You can find the image [here](https://hub.docker.com/r/nageenashaik/stockwatch) 
 
 - [Flask](https://flask.palletsprojects.com/) for the web framework.
 - [APIs](https://rapidapi.com/linuz/api/indian-stock-exchange-api2/playground) for stock market data 
-
+- [WebTechnologies](https://forum.freecodecamp.org/t/documentation-of-html-and-css/551354) for the front end.
 ---
 
 &copy;-Shaik Nageena
